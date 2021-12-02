@@ -1,0 +1,2 @@
+This is file d
+This is line 2 in file d
