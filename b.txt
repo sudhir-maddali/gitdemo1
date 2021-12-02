@@ -1,0 +1,2 @@
+I am test file b
+I am line 2 in file b
